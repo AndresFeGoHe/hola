@@ -1,2 +1,3 @@
 let a = "Andres";
-console.log("hola como estas " + a);
+let b = "Camila";
+console.log("hola soy " + b +  " como estas " + a);
